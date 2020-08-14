@@ -1,6 +1,5 @@
-#! /bin/sh
-source /etc/profile
-source ~/.zshrc
+#! /bin/bash
+cd /Users/zhixiang.liu/Documents/note
 update=`git status -s`
 
 # echo update
