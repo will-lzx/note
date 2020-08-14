@@ -1,3 +1,6 @@
+#! /bin/sh
+source /etc/profile
+source ~/.zshrc
 update=`git status -s`
 
 # echo update
