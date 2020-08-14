@@ -17,7 +17,9 @@
 
    1. Golfing + cron-v3
 
-   2. 
+   2. Dir: /Users/zhixiang.liu/go/src/gcrontab
+
+   3. Command: nohup go run main.go &
 
       
 
