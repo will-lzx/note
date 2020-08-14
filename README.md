@@ -15,7 +15,7 @@
 
 2. Autoupload tool:
 
-   1. Golfing + cron-v3
+   1. Golang + cron-v3
 
    2. Dir: /Users/zhixiang.liu/go/src/gcrontab
 
